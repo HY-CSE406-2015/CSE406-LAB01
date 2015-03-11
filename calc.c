@@ -38,8 +38,13 @@ int square(int var_1){
   return value;
 }
 
+<<<<<<< HEAD
 int division(int var_1, int var_2){
   int value;
   value = var_1/ var_2;
 
+=======
+void hola(){
+  printf("Bonjour!");
+>>>>>>> origin/heeju_branch
 }
