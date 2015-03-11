@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 // This is master branch!!!
+// Modified Text in master
 int main(int argc, char*[] argv){
   int input_type;
   int val_1, val_2;
