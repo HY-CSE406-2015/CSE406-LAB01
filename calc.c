@@ -17,22 +17,17 @@ int main(int argc, char*[] argv){
 }
 
 int plus(int var_1, int var_2){
-  int value;
-  value = var_1 + var_2;
+  int value = var_1 + var_2;
 
   return value;
 }
 
 int minus(int var_1, int var_2){
-  int value;
-  value = var_1 - var_2;
-
-  return value;
+  return var_1 - var_2;
 }
 
 int square(int var_1){
-  int value;
-  value = var_1 * var_1;
+  var_1 *= var_1;
 
-  return value;
+  return var_1;
 }
