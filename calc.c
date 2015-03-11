@@ -36,3 +36,7 @@ int square(int var_1){
 
   return value;
 }
+
+void hj_math(){
+  printf("I want to go!!!");
+}
