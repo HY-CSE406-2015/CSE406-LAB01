@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-// This is master branch!!!
-// Modified Text in master
+
 int main(int argc, char*[] argv){
   int input_type;
   int val_1, val_2;
@@ -36,10 +35,4 @@ int square(int var_1){
   value = var_1 * var_1;
 
   return value;
-}
-
-int division(int var_1, int var_2){
-  int value;
-  value = var_1/ var_2;
-
 }
